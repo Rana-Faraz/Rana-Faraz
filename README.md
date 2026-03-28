@@ -8,7 +8,7 @@ Mostly into desktop apps, web apps, AI tooling, and anything that feels useful, 
 
 These are projects I have been vibe coding and adding to over time:
 
-- [UsageTray](https://github.com/Rana-Faraz/usage-tray-windows) - Windows tray app for tracking AI coding subscription usage across providers.
+- [UsageTray](https://github.com/Rana-Faraz/usage-tray-windows) - Windows tray app for tracking AI coding subscription usage across providers, forked from [OpenUsage](https://github.com/robinebers/openusage).
 - [pic-select](https://github.com/Rana-Faraz/pic-select) - Desktop app for fast photo selection and culling.
 - [pii-wasm](https://github.com/Rana-Faraz/pii-wasm) - Browser-first PII detection and obfuscation with a Rust/WASM core.
 
