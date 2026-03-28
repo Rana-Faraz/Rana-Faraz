@@ -22,5 +22,5 @@ All of these were vibe coded on the Codex $20 plan.
 
 ## Around The Web
 
-- Website: [ranafaraz.vercel.app](https://ranafaraz.vercel.app)
+- Website: [ranafaraz.fyi](https://ranafaraz.fyi)
 - GitHub: [@Rana-Faraz](https://github.com/Rana-Faraz)
