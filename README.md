@@ -1,32 +1,22 @@
 # Rana Faraz
 
-I build desktop and web products with a bias for practical UX, privacy-aware systems, and clean developer workflows.
+Tech guy. Usually building stuff on weekends, shipping side projects, and seeing how far I can push an idea before it turns into a real product.
 
-- Building with TypeScript, React, Tauri, Rust, and C#
-- Interested in desktop apps, AI tooling, secure collaboration, and browser-side privacy
-- Shipping experiments fast, then tightening the architecture
+Mostly into desktop apps, web apps, AI tooling, and anything that feels useful, fast, and clean.
 
-## Current Focus
+## Weekend Builds
 
-- Windows desktop tooling for AI workflow visibility
-- Secure app ideas and privacy-preserving product patterns
-- Better developer ergonomics across full-stack TypeScript projects
+These are projects I have been vibe coding and adding to over time:
 
-## Featured Projects
+- [UsageTray](https://github.com/Rana-Faraz/usage-tray-windows) - Windows tray app for tracking AI coding subscription usage across providers.
+- [pic-select](https://github.com/Rana-Faraz/pic-select) - Desktop app for fast photo selection and culling.
+- [pii-wasm](https://github.com/Rana-Faraz/pii-wasm) - Browser-first PII detection and obfuscation with a Rust/WASM core.
 
-### [UsageTray](https://github.com/Rana-Faraz/usage-tray-windows)
+## Side Note
 
-Windows tray app for tracking AI coding subscription usage across providers in one place.
+All of these were vibe coded on the Codex $20 plan.
 
-### [pic-select](https://github.com/Rana-Faraz/pic-select)
-
-Windows desktop app for iterative photo selection and culling with non-destructive history.
-
-### [pii-wasm](https://github.com/Rana-Faraz/pii-wasm)
-
-Browser-first PII detection and obfuscation engine with a Rust/WASM core.
-
-## Tech I Work With
+## Tech Stack
 
 `TypeScript` `React` `Tauri` `Rust` `C#` `Node.js` `Vite` `WASM`
 
@@ -34,10 +24,3 @@ Browser-first PII detection and obfuscation engine with a Rust/WASM core.
 
 - Website: [ranafaraz.vercel.app](https://ranafaraz.vercel.app)
 - GitHub: [@Rana-Faraz](https://github.com/Rana-Faraz)
-
-## What I Like Building
-
-- Desktop apps that feel native and stay out of the way
-- Internal tools with sharp workflows instead of bloated surfaces
-- Security and privacy features that are useful without being noisy
-- Small products with clear constraints and fast iteration loops
