@@ -1,26 +1,25 @@
 # Rana Faraz
 
-I build practical software across AI tooling, desktop apps, and developer workflows.
+Tech guy. Usually building stuff on weekends, shipping side projects, and seeing how far I can push an idea before it turns into a real product.
 
-Lately I have been focused on turning rough ideas into real products fast, then cleaning them up enough to ship properly.
+Mostly into desktop apps, web apps, AI tooling, and anything that feels useful, fast, and clean.
 
-## Shipping Now
+## Weekend Builds
 
-- [jira-cli](https://github.com/Rana-Faraz/jira-cli) - Jira Cloud CLI in Rust with keyring-backed auth, named contexts, issue and sprint workflows, GitHub Releases, Homebrew install, and an agent skill for Codex and Claude Code.
+These are projects I have been vibe coding and adding to over time:
+
+- [jira-cli](https://github.com/Rana-Faraz/jira-cli) - Jira Cloud CLI for auth, issue workflows, boards, sprints, epics, releases, and agent-driven terminal use.
 - [UsageTray](https://github.com/Rana-Faraz/usage-tray-windows) - Windows tray app for tracking AI coding subscription usage across providers, forked from [OpenUsage](https://github.com/robinebers/openusage).
 - [pic-select](https://github.com/Rana-Faraz/pic-select) - Desktop app for fast photo selection and culling.
-- [pii-wasm](https://github.com/Rana-Faraz/pii-wasm) - Browser-first PII detection and obfuscation with a Rust and WASM core.
+- [pii-wasm](https://github.com/Rana-Faraz/pii-wasm) - Browser-first PII detection and obfuscation with a Rust/WASM core.
 
-## What I Like Building
+## Side Note
 
-- AI developer tools
-- Desktop software
-- Internal tools that feel fast and clean
-- Small products that can actually get shipped
+All of these were vibe coded on the Codex $20 plan.
 
-## Stack
+## Tech Stack
 
-`TypeScript` `React` `Rust` `Tauri` `C#` `Node.js` `Vite` `WASM`
+`TypeScript` `React` `Tauri` `Rust` `C#` `Node.js` `Vite` `WASM`
 
 ## Around The Web
 
