@@ -8,6 +8,7 @@ Mostly into desktop apps, web apps, AI tooling, and anything that feels useful, 
 
 These are projects I have been vibe coding and adding to over time:
 
+- [local-llm](https://github.com/Rana-Faraz/local-llm) - On-device Expo chat app that runs locally and is tuned for Gemma 4 GGUF models.
 - [jira-cli](https://github.com/Rana-Faraz/jira-cli) - Jira Cloud CLI for auth, issue workflows, boards, sprints, epics, releases, and agent-driven terminal use.
 - [UsageTray](https://github.com/Rana-Faraz/usage-tray-windows) - Windows tray app for tracking AI coding subscription usage across providers, forked from [OpenUsage](https://github.com/robinebers/openusage).
 - [pic-select](https://github.com/Rana-Faraz/pic-select) - Desktop app for fast photo selection and culling.
